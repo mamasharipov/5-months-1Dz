@@ -1,0 +1,24 @@
+.page {
+  background-image: url("https://n1s1.hsmedia.ru/c0/e1/f6/c0e1f6deb3a155e3b2c92a2a33a66c79/537x600_1_6a27a51ace7590dca5249e4b1aef3424@1584x1770_0xac120004_1639006701680692856.jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-box {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 20px;
+  border: 1px solid #ccc;
+  text-align: center;
+  max-width: 600px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.text-box p {
+  font-size: 18px;
+  line-height: 1.5;
+}
